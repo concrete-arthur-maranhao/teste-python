@@ -1,1 +1,3 @@
-Teste
+Teste commint do git pelo vs code. 
+
+Realizando teste de remoção de arquivo
